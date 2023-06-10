@@ -63,7 +63,6 @@ html, body{
 }
 
 #elems{
-    /* background-color: red; */
     height: 100%;
     display: flex;
     align-items: center;
@@ -73,12 +72,10 @@ html, body{
 
 #elem1{
     width: 30%;
-    /* background-color: blue; */
     height: 100%;
 }
 #elem2{
     width: 30%;
-    /* background-color: blue; */
     height: 100%;
     padding: 10px 60px;
     text-align: center;
@@ -87,7 +84,6 @@ html, body{
 }
 #elem3{
     width: 30%;
-    /* background-color: blue; */
     height: 100%;
 }
 
@@ -197,7 +193,6 @@ html, body{
     font-size: 100px;
     font-weight: 100;
     letter-spacing: -4px;
-    /* background-color: red; */
     line-height: 90px;
 }
 #page2-left h1{
@@ -207,7 +202,6 @@ html, body{
     font-weight: 100;
     letter-spacing: -4px;
     line-height: 150px;
-    /* background-color: blue; */
 }
 #page2-left img{
     height: 50%;
